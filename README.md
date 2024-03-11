@@ -1,2 +1,2 @@
 # coproject
-Arnie,Himanshu,Argim,Jerovin
+Arnie,Himanshu,Agrim,Jerovin
